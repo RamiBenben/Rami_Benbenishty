@@ -6,6 +6,6 @@ To add a link that downlaods a certain file follow these steps:
   5. After you picked your file and the window closed, click the Commit Changes button (You might need to scroll down)
   6. Open the Folder with the name of the page you want the link to be on (SCBV for School climate, bullying and  violance)
   7. The Paste this in and change the defults:
-     \<a href="../Files/__your file name. your file ending__" downlaod> This is what the button will say </a>
+     \<a href="../Files/__your file name. your file ending__" downlaod> This is what the button will say\</a>
   
 To change the defults follow these steps after you completed the previous steps:

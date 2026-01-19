@@ -3,6 +3,7 @@ html {
 }
 
 body {
+    position: flaot;
     top: 70px;
     left: 15%;
     background-color: lightblue;
@@ -67,9 +68,4 @@ body {
 .Jumping_banner button:hover {
   transform: translateY(-5px) scale(1.05);
   box-shadow: 0 4px 12px rgba(0,0,0,0.12);
-}
-
-#page{
-  margin-top: 70px;
-  margin-left: 15%;
 }

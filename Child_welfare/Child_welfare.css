@@ -3,6 +3,8 @@ html {
 }
 
 body {
+    top: 70px;
+    left: 15%;
     background-color: lightblue;
     z-index: 0;
   }

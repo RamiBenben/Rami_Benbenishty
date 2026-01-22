@@ -44,7 +44,7 @@ body {
   width: 13%;
   background: #f5f5f5;
   display: grid;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 3fr 1fr 1fr 1fr;
   justify-content: top;
   align-items: left;
   gap: 10px;
